@@ -1,0 +1,6 @@
+Flask
+instaloader
+pymongo
+requests
+python-dotenv
+gunicorn
